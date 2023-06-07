@@ -26,8 +26,8 @@ End the program.
 ## PROGRAM:
 ```
 Program to count the words in a file
-Reg No:21222100056
-Name:Tharun Kumar.M
+Reg No:212222240112
+Name:S VAISHNAV NANDA
 fname=input("enter the file name:")
 num_words=0
 with open(fname,'r') as f:
@@ -37,7 +37,7 @@ with open(fname,'r') as f:
 print('Number of words:',num_words)
 ```
 ### OUTPUT:
-![wordocunt](https://github.com/25tharunkumar/Word-count/assets/123470785/42135e96-35a4-46ff-841c-67a7611caa49)
+![wordocunt](/wd.png)
 
 
 
